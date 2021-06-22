@@ -90,6 +90,8 @@ This is a paragraph.
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
     > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+    
+![Chinese Salty Egg](./salty_egg.jpg)
 
 > ## This is a header.
 >
